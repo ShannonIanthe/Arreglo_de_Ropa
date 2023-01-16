@@ -9,7 +9,7 @@ They are located in Madrid, Spain.
 
  - Vite + Reactjs
  - JSX 
- - Less
+ - Preprocessor - Less
 
 
 ## Appendix
